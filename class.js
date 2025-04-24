@@ -27,7 +27,7 @@ ac(){
 }
 projector(){
     console.log((this.projectorname));
-        wffsefslfshfksfbkfskfbkgbfksefksfwekfbkf
+       
 
 }
 
